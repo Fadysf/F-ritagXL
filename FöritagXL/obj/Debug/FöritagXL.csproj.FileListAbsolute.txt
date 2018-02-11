@@ -1,0 +1,26 @@
+C:\Users\Snipersf\OneDrive\visual studio projekt\FöritagXL\FöritagXL\obj\Debug\FöritagXL.csprojResolveAssemblyReference.cache
+C:\Users\Snipersf\OneDrive\visual studio projekt\FöritagXL\FöritagXL\obj\Debug\FöritagXL.csproj.CoreCompileInputs.cache
+C:\Users\Snipersf\OneDrive\visual studio projekt\FöritagXL\FöritagXL\bin\Debug\FöritagXL.exe.config
+C:\Users\Snipersf\OneDrive\visual studio projekt\FöritagXL\FöritagXL\bin\Debug\FöritagXL.exe
+C:\Users\Snipersf\OneDrive\visual studio projekt\FöritagXL\FöritagXL\bin\Debug\FöritagXL.pdb
+C:\Users\Snipersf\OneDrive\visual studio projekt\FöritagXL\FöritagXL\obj\Debug\FöritagXL.exe
+C:\Users\Snipersf\OneDrive\visual studio projekt\FöritagXL\FöritagXL\obj\Debug\FöritagXL.pdb
+C:\Users\User\Downloads\FöritagXL\FöritagXL\bin\Debug\FöritagXL.exe.config
+C:\Users\User\Downloads\FöritagXL\FöritagXL\bin\Debug\FöritagXL.exe
+C:\Users\User\Downloads\FöritagXL\FöritagXL\bin\Debug\FöritagXL.pdb
+C:\Users\User\Downloads\FöritagXL\FöritagXL\obj\Debug\FöritagXL.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\FöritagXL\FöritagXL\obj\Debug\FöritagXL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\FöritagXL\FöritagXL\obj\Debug\FöritagXL.exe
+C:\Users\User\Downloads\FöritagXL\FöritagXL\obj\Debug\FöritagXL.pdb
+C:\Users\Snipersf\OneDrive\FöritagXL barbardata\FöritagXL\bin\Debug\FöritagXL.exe.config
+C:\Users\Snipersf\OneDrive\FöritagXL barbardata\FöritagXL\bin\Debug\FöritagXL.exe
+C:\Users\Snipersf\OneDrive\FöritagXL barbardata\FöritagXL\bin\Debug\FöritagXL.pdb
+C:\Users\Snipersf\OneDrive\FöritagXL barbardata\FöritagXL\obj\Debug\FöritagXL.csproj.CoreCompileInputs.cache
+C:\Users\Snipersf\OneDrive\FöritagXL barbardata\FöritagXL\obj\Debug\FöritagXL.exe
+C:\Users\Snipersf\OneDrive\FöritagXL barbardata\FöritagXL\obj\Debug\FöritagXL.pdb
+C:\Users\User\OneDrive\FöritagXL barbardata\FöritagXL\bin\Debug\FöritagXL.exe.config
+C:\Users\User\OneDrive\FöritagXL barbardata\FöritagXL\bin\Debug\FöritagXL.exe
+C:\Users\User\OneDrive\FöritagXL barbardata\FöritagXL\bin\Debug\FöritagXL.pdb
+C:\Users\User\OneDrive\FöritagXL barbardata\FöritagXL\obj\Debug\FöritagXL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\FöritagXL barbardata\FöritagXL\obj\Debug\FöritagXL.exe
+C:\Users\User\OneDrive\FöritagXL barbardata\FöritagXL\obj\Debug\FöritagXL.pdb
